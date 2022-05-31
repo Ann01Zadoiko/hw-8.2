@@ -1,7 +1,6 @@
 public abstract class Shape {
     private String name;
 
-
     public String getName(){
         return name;
     }
